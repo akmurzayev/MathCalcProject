@@ -1,5 +1,0 @@
-
-Apple 12 2 = 24
-Orange 32 32 = 1024
-Choose Product   = 
-Tomatoe 18 2 = 36
