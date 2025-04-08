@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akmur\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\c#OOP\\Dream Team\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03D54FD1-3A91-47CC-B62D-34229F29EC0B}|Dream Team\\Dream Team.csproj|c:\\users\\akmur\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\c#oop\\dream team\\dream team\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03D54FD1-3A91-47CC-B62D-34229F29EC0B}|Dream Team\\Dream Team.csproj|solutionrelative:dream team\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D54FD1-3A91-47CC-B62D-34229F29EC0B}|Dream Team\\Dream Team.csproj|c:\\users\\akmur\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\c#oop\\dream team\\dream team\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D54FD1-3A91-47CC-B62D-34229F29EC0B}|Dream Team\\Dream Team.csproj|solutionrelative:dream team\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D54FD1-3A91-47CC-B62D-34229F29EC0B}|Dream Team\\Dream Team.csproj|c:\\users\\akmur\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\c#oop\\dream team\\dream team\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D54FD1-3A91-47CC-B62D-34229F29EC0B}|Dream Team\\Dream Team.csproj|solutionrelative:dream team\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D54FD1-3A91-47CC-B62D-34229F29EC0B}|Dream Team\\Dream Team.csproj|c:\\users\\akmur\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\c#oop\\dream team\\dream team\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D54FD1-3A91-47CC-B62D-34229F29EC0B}|Dream Team\\Dream Team.csproj|solutionrelative:dream team\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D54FD1-3A91-47CC-B62D-34229F29EC0B}|Dream Team\\Dream Team.csproj|C:\\Users\\akmur\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\c#OOP\\Dream Team\\dream team\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03D54FD1-3A91-47CC-B62D-34229F29EC0B}|Dream Team\\Dream Team.csproj|solutionrelative:dream team\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\akmur\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\c#OOP\\Dream Team\\Dream Team\\Form2.cs",
+              "RelativeDocumentMoniker": "Dream Team\\Form2.cs",
+              "ToolTip": "C:\\Users\\akmur\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\c#OOP\\Dream Team\\Dream Team\\Form2.cs",
+              "RelativeToolTip": "Dream Team\\Form2.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAawBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T00:39:15.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\akmur\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\c#OOP\\Dream Team\\Dream Team\\Form2.cs",
+              "RelativeDocumentMoniker": "Dream Team\\Form2.cs",
+              "ToolTip": "C:\\Users\\akmur\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\c#OOP\\Dream Team\\Dream Team\\Form2.cs [Design]",
+              "RelativeToolTip": "Dream Team\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T00:29:16.738Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\akmur\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\c#OOP\\Dream Team\\Dream Team\\Users.cs",
+              "RelativeDocumentMoniker": "Dream Team\\Users.cs",
+              "ToolTip": "C:\\Users\\akmur\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\c#OOP\\Dream Team\\Dream Team\\Users.cs",
+              "RelativeToolTip": "Dream Team\\Users.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwFUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T23:04:11.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\akmur\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\c#OOP\\Dream Team\\Dream Team\\Form1.cs",
+              "RelativeDocumentMoniker": "Dream Team\\Form1.cs",
+              "ToolTip": "C:\\Users\\akmur\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\c#OOP\\Dream Team\\Dream Team\\Form1.cs",
+              "RelativeToolTip": "Dream Team\\Form1.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAASwCcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T00:31:28.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\akmur\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\c#OOP\\Dream Team\\Dream Team\\Form1.cs",
+              "RelativeDocumentMoniker": "Dream Team\\Form1.cs",
+              "ToolTip": "C:\\Users\\akmur\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\c#OOP\\Dream Team\\Dream Team\\Form1.cs [Design]",
+              "RelativeToolTip": "Dream Team\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T00:26:39.533Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
