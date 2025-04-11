@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dream Team")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8eb970d60973d610a7eadb570af16495b1fc5765")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a90685471c9c318c8aa263528106a4221d1acd05")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dream Team")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dream Team")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
